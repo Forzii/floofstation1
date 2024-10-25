@@ -1,20 +1,22 @@
 [color=#ff0000]WARNING: You MUST be at least 18 years of age to play on Floof Station.[/color]
-[color=#ff0000]Any user suspected of being under the age of 18 WILL be removed until they are of age.[/color]
 
-[color=#ffff00]Intentionally disconnecting, responding with hostility, or refusing to respond when an admin privately messages you in-game will be met with an appeal-only ban. Additionally, abusing the AHelp relay by flooding it with garbage, checking for admins before stating a problem (ex: "hello?", "any admins?"), using it as a chatroom, or sending messages of no substance will result in your removal.[/color]
+[color=#ffff00]Intentionally disconnecting, responding with hostility, or refusing to respond when an admin privately messages you in-game will be met with an appeal-only ban.[/color]
 [color=#ffff00]All AHelp messages are relayed to the Floof Station Discord.[/color]
 
-[color=#ffff00]The usage of any third-party applications/scripts/client modifications or any other applicable software to gain an advantage, avoid intended game/server mechanics, or to harm server infrastructure is strictlyprohibited, as is the abuse of glitches, exploits and bugs. Any and all instances of this will be met with an appeal-only ban.[/color]
+[color=#ffff00]The usage of any third-party applications/scripts/client modifications or any other applicable software to gain an advantage, avoid intended game/server mechanics, or to harm server infrastructure is strictly prohibited.[/color]
 [color=#ffff00]Please use the #bug-reports channel on the Discord to report any issues you find in-game.[/color]
 
-[color=#ffff00]Attempting to evade bans is strictly forbidden, and will result in the ban being automatically converted to appeal-only.[/color]
-[color=#ffff00]Multi-keying (the simultaneous use of multiple accounts at one time) is also forbidden, and will be met with a ban of all the accounts involved.[/color]
+[color=#ffff00]Attempting to evade bans will result in the ban being automatically converted to appeal-only.[/color]
+[color=#ffff00]Multi-keying (the simultaneous use of multiple accounts at one time) is also forbidden.[/color]
 
 [color=#ffff00]If you have any questions about these rules, please use the admin help menu by hitting F1 in-game, or clicking the "AHelp" button in the lobby.[/color]
 
 [color=#ff0000]Community Rules[/color]
 
-[color=#ffff00]1.[/color] All of these rules apply as they are intended. Every example of a rule break cannot be defined as written, therefore, enforcement of the rules is subject to staff interpretation of the rule's intention.
+[color=#ffff00][head=3]0. Admins can disregard any and all of these rules if they deem it in the best interest of the current round, server, and/or community at large.[/head][/color]
+	• They will of course be held fully accountable for their actions if they exercise this privilege.
+
+[color=#ffff00]1.[/color] All of these rules apply as they are intended. Enforcement of these rules is subject to staff interpretation of the rule's intention.
 Any extended discussion regarding interpretation of the rules should be avoided in the AHelp menu and can be instead pursued within the Floof Station Discord in the #help channel.
 
 [color=#ffff00]2.[/color] Floof Station is an English-based community; use English as your primary method of communication within the game.
@@ -23,52 +25,43 @@ Any extended discussion regarding interpretation of the rules should be avoided 
 For more information about this, consult the ERP guidelines and rules in the Game Server Rules section at point 8.
 
 [color=#ffff00]4. Be civil:[/color]
-[color=#a4885c]4.1[/color] Do not spam or advertise in our server.
+[color=#a4885c]4.1[/color] Do not spam or advertise.
 [color=#a4885c]4.2[/color] Do not flame and do not be toxic.
 [color=#a4885c]4.3[/color] Be polite and respectful towards other members, and avoid making others uneasy or uncomfortable.
-[color=#a4885c]4.4[/color] DO NOT BE AN ASSHOLE. Do not intentionally make the round worse for other people for your own amusement.
-For example: repeatedly and persistently harassing a character, being an intense nuisance to the quiet of the station, or causing substantial damage through vandalism.
-[color=#a4885c]4.5[/color] We have a zero tolerance policy for any form of bigotry, discrimination, toxicity, and harassment. Failure to comply with this rule will result in community removal.
-Slurs and terms used to mock or denigrate players or their in-game characters in a discriminatory, hateful manner, are also strictly prohibited.
-[color=#a4885c]4.6[/color] For anything else that is not specifically covered by our rules: use common sense and common decency.
+[color=#a4885c]4.4[/color] Do not intentionally make the round worse for other people for your own amusement.
+[color=#a4885c]4.5[/color] Do not use slurs and terms used to mock or denigrate players or their in-game characters in a discriminatory, hateful manner.
+[color=#a4885c]4.5[/color] The mention of self-harm/suicide, is strictly prohibited. This includes In Character and Out Of Character.
+[color=#a4885c]4.5[/color] Do not interrupt ERP without very good reason.
+
+Do not provide unfair or unreasonable gameplay advantages or disadvantages , cannot bring station operations to a standstill and/or cannot actively break the rules
 
 [color=#ff0000]Game Server Rules[/color]
 
 [color=#ffff00]1. Follow the server expectations:[/color]
 [color=#a4885c]1.1[/color] If you are banned from a role or department, you may not play that role. This includes seeking or accepting promotions into roles you are banned from.
-[color=#a4885c]1.2[/color] Do not make yourself a major problem, annoyance or disruption for the crew while not being an antagonist (i.e. self-antagging). Intentionally hindering the station as a crew-aligned character is strictly against our rules.
-[color=#a4885c]1.3[/color] Department strikes (e.g. cargonia and any variation thereof), riots, cults, and any other type of similar largely disruptive behavior are to be roleplayed excellently and require explicit administrator pre-approval.
+[color=#a4885c]1.2[/color] Do not make yourself a major problem, annoyance or disruption for the crew while not being an antagonist (i.e. self-antagging).
+[color=#a4885c]1.3[/color] Department strikes (e.g. cargonia and any variation thereof), riots, cults require explicit administrator pre-approval.
 Lack of administrator response does not constitute approval.
-[color=#a4885c]1.4[/color] Clowns, Mimes, and other "prankster" roles do not get an exemption from the above, and should NOT use their job as an excuse to be a major disturbance.
-[color=#a4885c]1.5[/color] AFK (a.k.a. SSD) and catatonic players are considered to have the same rights as any other crewmate.
-[color=#a4885c]1.6[/color] If a player is dead and catatonic (not SSD), they are not required to be revived and should be stored in the morgue.
-[color=#a4885c]1.7[/color] You should not biomass grind dead and catatonic crew, unless the body belongs to a person who got cloned (thus, recycling is allowed), or during an emergency.
-[color=#a4885c]1.8[/color] If a player is alive and catatonic, they may be brought to their relevant department or cryostorage as necessary.
 [color=#a4885c]1.9[/color] For the sake of privacy and respect towards the other members of the community, by reason of the nature of the server, and by motive of potential metagaming, livestreaming rounds is strictly forbidden.
-[color=#a4885c]1.10[/color] It is strictly forbidden to record players engaged in private activities without their consent, and even more so to share it without their consent.
+[color=#a4885c]1.10[/color] It is strictly forbidden to record players engaged in private activities without their consent, and to share it without their consent.
 [color=#a4885c]1.11[/color] Ghosting or playing with the intent of, and the act itself of "exposing" or shaming players by sharing content or information of their presence or activities in this server elsewhere, is strictly forbidden.
 
 [color=#ffff00]2. Follow metagaming guidelines:[/color]
-[color=#a4885c]2.1[/color] Do not use the Emote channel to bypass an inability to speak.
+[color=#a4885c]2.3[/color] Use the chat channels for their intended purpose.
+[color=#a4885c]2.3[/color] Characters do not have any knowledge of what happened while they were dead.
 [color=#a4885c]2.2[/color] Use of the emote channel to simulate character death rattles or other game mechanics is prohibited.
-[color=#a4885c]2.3[/color] Use the local-out-of-character (LOOC) and global out-of-character (OOC) channels properly. Don't speak of in-character matters in those channels unless you're asking questions related to ingame concepts
-[color=#a4885c]2.4[/color] Do not use in-character channels to bypass a lack of ability to use OOC/LOOC chats (e.g. "Huh, wonder where the captain went? OOC He probably left to get dinner lol").
-[color=#a4885c]2.5[/color] Do not use any information gained by meta-communication (i.e. using external channels to communicate with other players in the same game) to your advantage.
+[color=#a4885c]2.5[/color] Do not use any information gained by meta-communication (i.e. using external channels to communicate with other players in the same game).
 [color=#a4885c]2.6[/color] Discussion about the current round is allowed on the Floof Station Discord server (albeit discouraged for the purpose of MRP). However, acting on information gained by this method is strictly forbidden.
 [color=#a4885c]2.7[/color] You are allowed to have knowledge of past experiences and prior shifts, and players are allowed to have in-character relationships (friends, enemies, or otherwise).
 However, it is still forbidden to break any rule on the basis of friendships and hostilities (such as self-antagging by killing or harassing someone for no reason, or not providing service to another department because someone you don't like either works there or is at the head of it)
-[color=#a4885c]2.8[/color] Antagonists in previous rounds must not be treated differently due to their prior antagonist status. Notwithstanding, confession of crimes committed in a prior shift are still admissible in court.
-[color=#a4885c]2.9[/color] For the sake of continuity, your character will never have permanently died in previous rounds (unless you wish to roleplay this concept out).
 [color=#a4885c]2.10[/color] Do NOT "antag roll." This is the act of joining rounds for the purpose of seeing if you have received an antagonist role, and leaving soon after if not.
-[color=#a4885c]2.11[/color] Act like an actual person on board of a space station, and don’t use text speech or emoticons when speaking in character.
 
 [color=#ffff00]3. Follow new-life rules:[/color]
-[color=#a4885c]3.1[/color] If a player dies and is brought back by way of cloning or borging, they forget the last five minutes leading up to their death and cannot describe who or what killed them.
-[color=#a4885c]3.2[/color] Players that are revived by using a defibrillator can only recall vague details about their death, such as "Someone shot me" or "I was set ablaze" but they cannot recall details beyond that. Please report players who break this rule.
-[color=#a4885c]3.3[/color] In either case, characters do not have any knowledge of what happened while they were dead (i.e. ghosted/observing), and are forbidden from acting on information gained during death.
+[color=#a4885c]3.1[/color] If a player is brought back by way of cloning or borging, they forget the last five minutes leading up to their death and cannot describe who or what killed them.
+[color=#a4885c]3.2[/color] Players that are revived by using a defibrillator can only recall vague details about their death, such as "Someone shot me" or "I was set ablaze" but they cannot recall details beyond that.
 
 [color=#ffff00]4. Follow naming conventions:[/color]
-[color=#a4885c]4.1[/color] Don't make cringy or lame references, don’t make obvious puns or plays on words, and try to be creative by picking a believable and fitting name and/or surname. Leeway is given to theatrical roles such as the clown, boxer, and mime; these roles are allowed stage names with some freedom.
+[color=#a4885c]4.1[/color] Don't make references or obvious puns or plays on words, and try to be creative by picking a believable and fitting name and/or surname. Leeway is given to theatrical roles such as the clown, boxer, and mime; these roles are allowed stage names with some freedom.
 [color=#a4885c]4.2[/color] If you are using a title, DO NOT attempt to use it to gain unfair gameplay advantages (such as, pretending to be a Centcomm officer, or some role/job you are not).
 
 [color=#ffff00]5. Follow roleplay guidelines:[/color]
@@ -99,10 +92,13 @@ For example, it is to be avoided to check PDAs, implants and headsets unless the
 [color=#a4885c]7.2[/color] Explosives and strategies with capacity for high collateral damage should not be used on or around the evacuation shuttle.
 
 [color=#ffff00]8. Follow ERP guidelines and rules:[/color]
+
+
+
+
 [color=#a4885c]8.1[/color] Be very mindful of In Character and Out of Character consent, as they are NOT the same thing. Whilst a player may agree for their character to be subjected to a nonconsensual act, engaging in ERP with someone against their OOC consent is strictly forbidden. This applies both to actual player characters, and ghost role characters, people and creatures.
 If your OOC consent is not respected, immediately contact an administrator or moderator.
 [color=#a4885c]8.2[/color] Extreme acts such as killing, severely maiming, nonconning, abuse, or even round removal are allowed, so long that all the participants consented OOC.
-Ideally, if this is done with IC consent, have a form signed by all parties involved, where you state consent to the action, and have it stamped by a lawyer or the HoP.
 [color=#a4885c]8.3[/color] Keep in mind that by performing actions without IC consent (or actions that go against space law), you are not immune to and will be opening yourself to IC punishment. Expect to be potentially apprehended, prosecuted and sentenced to the full extent of the law, if found to have committed the crime you did.
 [color=#a4885c]8.4[/color] Try to make ABUNDANTLY clear in your consent menu essential information such as whether you are interested in ERP or not, your limits and preferences, your OOC stance on nonconsensual acts towards your character, your OOC or/and IC stance on extreme acts such as death or maiming, and so on so forth.
 [color=#a4885c]8.5[/color] DO NOT use ERP as bait, unless done with OOC consent of all parties involved. Much as it would be very believable and make for some amazing roleplay for an Agent to try and seduce a target into the bedroom to then murder them in cold blood on the spot or kidnap them, priority is given to the fun, comfort and enjoyment of all players.
