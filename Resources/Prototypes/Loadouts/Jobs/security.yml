@@ -975,35 +975,6 @@
     - WeaponRevolverDeckardNonLethal
 
 - type: loadout
-  id: LoadoutSecurityPistolN1984
-  category: JobsSecurity
-  cost: 2
-  requirements:
-    - !type:CharacterDepartmentTimeRequirement
-      department: Security
-      min: 3600 # 1 hours
-    - !type:CharacterItemGroupRequirement
-      group: LoadoutWeaponSecurity
-    - !type:CharacterDepartmentRequirement
-      departments:
-        - Security
-  items:
-    - WeaponPistolN1984
-
-- type: loadout
-  id: LoadoutSecurityPistolN1984NonLethal
-  category: JobsSecurity
-  cost: 2
-  requirements:
-    - !type:CharacterItemGroupRequirement
-      group: LoadoutWeaponSecurity
-    - !type:CharacterDepartmentRequirement
-      departments:
-        - Security
-  items:
-    - WeaponPistolN1984NonLethal
-
-- type: loadout
   id: LoadoutSecurityPistolViper
   category: JobsSecurity
   cost: 2
