@@ -28,7 +28,7 @@
 [color=#ffff00]Lack of administrator/Centcom response does not equal permission.[/color]
 
 
-[color=#ffff00]Security standard operating procedures are meta-shielded, no in-game rule lawyering (Leave it for the lawyers).
+[color=#ffff00]Security standard operating procedures are meta-shielded, no in-game rule lawyering (Leave it for the lawyers).[/color]
 
 
 [color=#ff0000]Section 1: Community Rules[/color]
@@ -81,8 +81,6 @@
 [color=#a4885c]6.8[/color] Do not dismantle station escape pods.
 
 
-
-
 [color=#ffff00]Section 7: Powergaming Rules[/color]
 [color=#a4885c]7.1[/color] Don't rush for or prepare equipment unrelated to your job. If you, in your given role, require an item that does not fall within your job’s usual parameters, seek in-character RP methods to obtain them.
 [color=#a4885c]7.2[/color] Manufacturing weapons, bombs, deadly poisons, or structures before you know of any reason you would need them for is powergaming behavior.
@@ -92,12 +90,10 @@
 [color=#a4885c]7.6[/color] Do not exploit game mechanics or bugs to circumvent roleplay for example: Game mechanic -> Putting on thieving gloves to test for chameleon fibers. Bug -> Slipping under a windoor.
 
 
-
-
 [color=#ffff00]Section 8: End-of-Round (EOR) Rules[/color]
 [color=#a4885c]8.1[/color] End-of-round-griefing (EORG) is not allowed. This includes but is not limited to: attacking, destroying, polluting, killing, and severely injuring without reason both at and on the way to Central Command.
 [color=#a4885c]8.2[/color] Explosives and strategies with capacity for high collateral damage should not be used on or around the evacuation shuttle.
-
+[color=#a4885c]8.3[/color] No hostile or antag activities on or around the evacuation shuttle.
 
 [color=#ffff00]Section 9: Erotic-Role-Play (ERP) Rules[/color]
 [color=#a4885c]9.1[/color] Be very mindful of in-character and out-of-character consent. If your (out-of-character) OOC consent is not respected, immediately Ahelp or open a ticket.
